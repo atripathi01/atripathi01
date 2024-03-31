@@ -1,4 +1,4 @@
-###                             Hi there 👋, I'm Ayush.<br />India-based Frontend developer.
+###                             Hi there 👋, I'm Ayush.<br />SDE Frontend developer.
 
 
 <!--
