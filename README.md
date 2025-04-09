@@ -1,8 +1,8 @@
-#                            Hi there 👋,
 
 ![image](https://github.com/user-attachments/assets/44c297c4-a229-4241-948c-f6791ee5e99f)
 
-
+#                            Hi there 👋,
+<hr/>
 <!--
 **atripathi01/atripathi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
