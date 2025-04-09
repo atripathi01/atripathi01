@@ -1,19 +1,26 @@
 
 ![image](https://github.com/user-attachments/assets/44c297c4-a229-4241-948c-f6791ee5e99f)
 
-#                            Hi there 👋,
+#                            Hi there 👋, I'm Ayush 
 <hr/>
-<!--
-**atripathi01/atripathi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>Next.js</li>
+  <li>Javascript</li>
+  <li>React.js</li>
+  <li>Django</li>
+  <li>Node.js</li>
+</ul>
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.ayushtripathi.dev">ayushtripathi.dev</a>
+<a href="https://www.linkedin.com/in/ayush-tripathi-1341651b6/">Linkedin</a>
+<a href="mailto:ayushtripathi5014@gmail.com">Gmail</a>
+<a href="https://github.com/atripathi01">Github</a>
+</p>
