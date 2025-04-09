@@ -1,4 +1,6 @@
-###                             Hi there 👋, I'm Ayush.<br />SDE Frontend developer.
+#                            Hi there 👋,
+
+![image](https://github.com/user-attachments/assets/44c297c4-a229-4241-948c-f6791ee5e99f)
 
 
 <!--
