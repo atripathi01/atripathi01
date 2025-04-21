@@ -13,6 +13,8 @@
   <li>React.js</li>
   <li>Django</li>
   <li>Node.js</li>
+  <li>Express.js</li>
+  <li>Snowflake</li>
 </ul>
 
 
